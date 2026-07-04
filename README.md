@@ -2,7 +2,7 @@
 
 # Hassan Al Jabaal
 
-**Founder & CTO — ThunderByte Digital Solutions**
+**Founder & CTO — ThunderByte Technologies Limited**
 
 *Penetration Tester · SOC Analyst · Full-Stack Engineer*
 
@@ -22,7 +22,7 @@
 
 ## 🧭 About
 
-I'm Hassan Al Jabaal — a cybersecurity practitioner and software engineer operating out of **Dar es Salaam, Tanzania**. As Founder and CTO of [ThunderByte Digital Solutions](https://thunderbyte.co.tz), I lead offensive and defensive security engagements while simultaneously building production-grade SaaS platforms serving the East African market.
+I'm Hassan Al Jabaal — a cybersecurity practitioner and software engineer operating out of **Dar es Salaam, Tanzania**. As Founder and CTO of [ThunderByte Technologies Limited](https://thunderbyte.co.tz), I lead offensive and defensive security engagements while simultaneously building production-grade SaaS platforms serving the East African market.
 
 My work spans the full stack: from Burp Suite sessions hunting IDOR chains and hardcoded AES keys in client-side JavaScript, to shipping multi-tenant SaaS products on Next.js 14 with PostgreSQL backends. I also share cybersecurity content to a growing audience under **Al Jabaal | Cyber Security** on TikTok and Instagram.
 
