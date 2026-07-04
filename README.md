@@ -109,17 +109,18 @@ Internal AI orchestration platform for ThunderByte operations. Built on Next.js 
 
 ## 🕵️ VAPT Experience
 
-Penetration testing engagements spanning web applications, REST APIs, and network infrastructure. Selected critical findings from client assessments:
+Penetration testing engagements spanning web applications, REST APIs, and network infrastructure. Assessments are structured around the **OWASP Top 10**, covering the most critical categories of modern application risk, including:
 
-| Finding | Severity |
-|---|---|
-| Hardcoded AES encryption keys exposed in client-side JavaScript | 🔴 Critical |
-| Unauthenticated API endpoints exposing user PII | 🔴 Critical |
-| Insecure Direct Object Reference (IDOR) across multi-tenant boundary | 🟠 High |
-| CORS misconfiguration allowing cross-origin credential leakage | 🟠 High |
-| Exposed admin/debug pages with zero authentication | 🟠 High |
-| SSL/TLS misconfigurations — weak cipher suites, expired chains | 🟡 Medium |
-| Outdated software stacks with publicly known CVEs | 🟡 Medium |
+- Broken Access Control
+- Cryptographic Failures
+- Injection
+- Insecure Design
+- Security Misconfiguration
+- Vulnerable & Outdated Components
+- Identification & Authentication Failures
+- Software & Data Integrity Failures
+- Security Logging & Monitoring Failures
+- Server-Side Request Forgery (SSRF)
 
 Reporting pipeline: Automated security report generation using a Node.js + docx pipeline — findings go from raw notes to formatted, client-ready deliverables in minutes.
 
