@@ -32,6 +32,10 @@ My Kali machine's hostname is `sub-zero`. That tells you everything.
 
 ## 🧰 Technical Skills
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 **Offensive Security**
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
@@ -39,6 +43,9 @@ My Kali machine's hostname is `sub-zero`. That tells you everything.
 <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP_ZAP-1E1E1E?style=flat-square&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLmap-2E2E2E?style=flat-square" />
+
+  </td>
+    <td valign="top" width="50%">
 
 **Defensive Security / SOC**
 
@@ -48,12 +55,20 @@ My Kali machine's hostname is `sub-zero`. That tells you everything.
 <img src="https://img.shields.io/badge/Threat_Intel-0d1117?style=flat-square" />
 <img src="https://img.shields.io/badge/Incident_Response-0d1117?style=flat-square" />
 
+  </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
 **Security Tooling**
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+  </td>
+    <td valign="top" width="50%">
 
 **Full-Stack & Infrastructure**
 
@@ -65,6 +80,10 @@ My Kali machine's hostname is `sub-zero`. That tells you everything.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+
+  </td>
+  </tr>
+</table>
 
 ---
 
