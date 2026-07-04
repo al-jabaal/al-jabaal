@@ -128,15 +128,7 @@ Reporting pipeline: Automated security report generation using a Node.js + docx 
 
 ## 🛡️ SOC Triage — Threat Intelligence
 
-Blue team analysis and triage of real-world advanced threat activity, including:
-
-- **BPFDoor** — Linux passive backdoor using BPF packet filtering for covert C2 communication
-- **APT41 LOWKEY** — Passive implant detection and IOC correlation
-- **Mozi Botnet** — P2P IoT malware network traffic analysis and containment
-- **IngressNightmare** — Kubernetes Ingress-NGINX RCE chain (CVE-2025-1974 series)
-- **Log4Shell** — JNDI injection detection and log-based containment
-- **Kernel Thread Spoofing** — Detecting process masquerading via anomalous kernel thread behavior
-- **Fokirtor SSH Backdoor** — Linux process hollowing via LD_PRELOAD interception
+Blue team analysis, monitoring, and triage of real-world threat activity. My work here focuses on detecting and responding to modern adversary behavior across endpoints, networks, and cloud infrastructure — including alert triage, log analysis, IOC correlation, threat hunting, and incident response. I track emerging malware families, advanced persistent threats, and novel attack techniques to strengthen detection coverage and reduce time-to-containment.
 
 ---
 
